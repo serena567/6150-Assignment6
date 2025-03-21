@@ -1,4 +1,4 @@
-# An-app-with-validation
+my own simple app
 
 use fetch 
 use promise 
