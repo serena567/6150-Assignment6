@@ -1,6 +1,3 @@
-<<<<<<< HEAD
-# An-app-with-validation
-=======
 # 6150-Assignment6
 use REST API create my own app
 use fetch
